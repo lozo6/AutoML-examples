@@ -15,3 +15,21 @@ One that is focused around regression (continuous outcome variable)
     - Describe for each experiment:
         - What was the best performing model (please interpret (a) log-loss or RMSE between models, and (b) AUC)
         - How much better (? if any) did the model perform compared to baseline
+
+
+# Project 1 (binary/classification)
+
+The independent vairable tested was `Length of Stay`
+
+The best performing model was XgBoost with a logloss of 0.256013 compared to Baseline logloss of 0.687821
+
+details in df_sparcs_binary_los
+
+
+# Project 2:
+
+The independent vairable tested was `Total Costs`
+
+The best performng model was Ensemble with an RMSE of 6451.44 compared to Baseline RMSE of 23541.3
+
+details in AutoML_1
