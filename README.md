@@ -23,7 +23,7 @@ The independent vairable tested was `Age Group`
 
 The best performing model was XgBoost with a logloss of `0.800021` compared to Baseline logloss of `0.687821`
 
-details in df_sparcs_binary_los
+details in binary_classification
 
 
 # Project 2:
@@ -32,4 +32,4 @@ The independent vairable tested was `Total Costs`
 
 The best performng model was Ensemble with an RMSE of `6451.44` compared to Baseline RMSE of `23541.3`
 
-details in AutoML_1
+details in regression
