@@ -1,0 +1,16 @@
+if (Total Costs <= 8212.575) and (CCS Diagnosis Code <= 454.5) and (Total Costs <= 5504.085) then class: short (proba: 93.77%) | based on 3,850 samples
+
+if (Total Costs > 8212.575) and (APR Severity of Illness Code > 1.5) and (Total Charges > 46445.029) then class: long (proba: 89.83%) | based on 2,872 samples
+
+if (Total Costs > 8212.575) and (APR Severity of Illness Code > 1.5) and (Total Charges <= 46445.029) then class: long (proba: 66.93%) | based on 2,404 samples
+
+if (Total Costs <= 8212.575) and (CCS Diagnosis Code <= 454.5) and (Total Costs > 5504.085) then class: short (proba: 71.89%) | based on 2,074 samples
+
+if (Total Costs > 8212.575) and (APR Severity of Illness Code <= 1.5) and (APR MDC Code <= 14.5) then class: short (proba: 66.78%) | based on 1,153 samples
+
+if (Total Costs <= 8212.575) and (CCS Diagnosis Code > 454.5) and (Total Costs > 3969.655) then class: long (proba: 77.13%) | based on 376 samples
+
+if (Total Costs <= 8212.575) and (CCS Diagnosis Code > 454.5) and (Total Costs <= 3969.655) then class: short (proba: 78.06%) | based on 310 samples
+
+if (Total Costs > 8212.575) and (APR Severity of Illness Code <= 1.5) and (APR MDC Code > 14.5) then class: long (proba: 86.28%) | based on 226 samples
+
