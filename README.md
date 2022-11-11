@@ -19,7 +19,7 @@ One that is focused around regression (continuous outcome variable)
 
 # Project 1 (binary/classification)
 
-The independent vairable tested was `Length of Stay`
+The independent vairable tested was `Age Group`
 
 The best performing model was XgBoost with a logloss of `0.800021` compared to Baseline logloss of `0.687821`
 
