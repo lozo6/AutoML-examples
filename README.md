@@ -21,7 +21,7 @@ One that is focused around regression (continuous outcome variable)
 
 The independent vairable tested was `Length of Stay`
 
-The best performing model was XgBoost with a logloss of 0.256013 compared to Baseline logloss of 0.687821
+The best performing model was XgBoost with a logloss of `0.800021` compared to Baseline logloss of `0.687821`
 
 details in df_sparcs_binary_los
 
@@ -30,6 +30,6 @@ details in df_sparcs_binary_los
 
 The independent vairable tested was `Total Costs`
 
-The best performng model was Ensemble with an RMSE of 6451.44 compared to Baseline RMSE of 23541.3
+The best performng model was Ensemble with an RMSE of `6451.44` compared to Baseline RMSE of `23541.3`
 
 details in AutoML_1
